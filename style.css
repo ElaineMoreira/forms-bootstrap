@@ -1,0 +1,18 @@
+body{
+    max-width: 50%;
+    width: 100%;
+    margin: auto;
+    background-color: aliceblue;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+header, form{
+    background-color: aliceblue;
+    border-radius: 5px;
+    box-shadow: 10px 10px 60px rgb(107, 105, 105)
+}
+
+button{
+    margin-bottom: 15px;
+}
